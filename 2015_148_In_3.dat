@@ -1991,3 +1991,7 @@
 {"epoc[sec]":1432786777,"gpioPin":24,"level":0,"tick[usec]":4188752481}
 {"epoc[sec]":1432787026,"gpioPin":24,"level":0,"tick[usec]":143477055}
 {"epoc[sec]":1432787164,"gpioPin":24,"level":0,"tick[usec]":280826492}
+{"epoc[sec]":1432817778,"gpioPin":24,"level":0,"tick[usec]":831271638}
+{"epoc[sec]":1432818128,"gpioPin":24,"level":0,"tick[usec]":1181325861}
+{"epoc[sec]":1432818640,"gpioPin":24,"level":0,"tick[usec]":1694198922}
+{"epoc[sec]":1432818672,"gpioPin":24,"level":0,"tick[usec]":1725529070}
