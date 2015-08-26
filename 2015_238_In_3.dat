@@ -295,3 +295,9 @@
 {"epoc[sec]":1440556863,"gpioPin":24,"level":0,"tick[usec]":2075259506}
 {"epoc[sec]":1440557033,"gpioPin":24,"level":0,"tick[usec]":2245919256}
 {"epoc[sec]":1440558608,"gpioPin":24,"level":0,"tick[usec]":3820968688}
+{"epoc[sec]":1440558823,"gpioPin":24,"level":0,"tick[usec]":4035528215}
+{"epoc[sec]":1440558915,"gpioPin":24,"level":0,"tick[usec]":4127786976}
+{"epoc[sec]":1440559251,"gpioPin":24,"level":0,"tick[usec]":169257735}
+{"epoc[sec]":1440560948,"gpioPin":24,"level":0,"tick[usec]":1865515707}
+{"epoc[sec]":1440561467,"gpioPin":24,"level":0,"tick[usec]":2385209989}
+{"epoc[sec]":1440561538,"gpioPin":24,"level":0,"tick[usec]":2455984067}
