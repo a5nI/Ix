@@ -150,3 +150,5 @@
 {"epoc[sec]":1442139036,"gpioPin":18,"level":0,"tick[usec]":3763898958}
 {"epoc[sec]":1442142546,"gpioPin":18,"level":0,"tick[usec]":2978972962}
 {"epoc[sec]":1442142675,"gpioPin":18,"level":0,"tick[usec]":3107756206}
+{"epoc[sec]":1442144623,"gpioPin":18,"level":0,"tick[usec]":761416948}
+{"epoc[sec]":1442145075,"gpioPin":18,"level":0,"tick[usec]":1213563901}
