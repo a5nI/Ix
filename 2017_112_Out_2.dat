@@ -2012,3 +2012,5 @@
 {"epoc[sec]":1492929388,"gpioPin":21,"level":0,"tick[usec]":2245060434}
 {"epoc[sec]":1492930266,"gpioPin":21,"level":0,"tick[usec]":3123133440}
 {"epoc[sec]":1492930868,"gpioPin":21,"level":0,"tick[usec]":3725180602}
+{"epoc[sec]":1492931822,"gpioPin":21,"level":0,"tick[usec]":384903893}
+{"epoc[sec]":1492932085,"gpioPin":21,"level":0,"tick[usec]":647284455}
